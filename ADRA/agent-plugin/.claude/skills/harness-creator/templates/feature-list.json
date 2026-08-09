@@ -1,0 +1,44 @@
+{
+  "features": [
+    {
+      "id": "project-setup",
+      "name": "Project Setup",
+      "description": "Confirm the environment builds/runs and ${STATE_DIR}/init.sh passes on a clean checkout.",
+      "dependencies": [],
+      "status": "not-started",
+      "evidence": ""
+    },
+    {
+      "id": "first-feature",
+      "name": "TODO: name the first real piece of work for: ${SCENARIO}",
+      "description": "TODO: replace with the actual first slice of the scenario this harness was created for.",
+      "dependencies": ["project-setup"],
+      "status": "not-started",
+      "evidence": ""
+    },
+    {
+      "id": "verification-coverage",
+      "name": "Verification Coverage",
+      "description": "Confirm the commands in ${STATE_DIR}/init.sh actually exercise the work above, not just that the project builds.",
+      "dependencies": ["first-feature"],
+      "status": "not-started",
+      "evidence": ""
+    },
+    {
+      "id": "documentation-update",
+      "name": "Documentation Update",
+      "description": "Update ${AGENT_FILE} and any relevant docs to reflect what changed.",
+      "dependencies": ["first-feature"],
+      "status": "not-started",
+      "evidence": ""
+    },
+    {
+      "id": "cleanup-and-handoff",
+      "name": "Cleanup and Handoff",
+      "description": "Remove dead code/TODOs introduced along the way, write ${STATE_DIR}/session-handoff.md.",
+      "dependencies": ["verification-coverage", "documentation-update"],
+      "status": "not-started",
+      "evidence": ""
+    }
+  ]
+}
