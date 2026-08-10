@@ -20,7 +20,7 @@ Keep your section's heading and position in the list as-is — just fill in the 
 
 ## 1. Adra
 
-- **Team Name:** ADRA - AI-Driven Resolution Assistant
+- **Team Name:** AIRA - AI-Driven Resolution Assistant
 - **Team Lead:** Vihidun Pathiranage
 - **Participants:**
   - Sameera Palansooriya
