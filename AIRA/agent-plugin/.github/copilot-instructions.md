@@ -281,6 +281,6 @@ Transaction matching (AdraMatch) product.
 - When a task involves shared .NET libraries (auth, config, health checks, file access, HTTP, etc.), look first in the **Adra Platform** repos (`Adra.Common.*`).
 - When a task involves shared frontend components or the MAUI design system, look in **`adra-aurelia-ui`** (Adra UI project).
 - Cross-repo code search: use `gh search code --owner adramatch` or the `mcp_azure_devops2_search_code` tool scoped to the relevant project.
-- The `deep-research` agent (`.github/agents/deep-research.agent.md`) can search across repos, Confluence, and Jira — delegate multi-source investigations to it.
-- The `git-history-analyzer` skill (`.github/skills/git-history-analyzer/SKILL.md`) is available for git blame, PR history, and work-item tracing within this repo.
-- The `jira-ticket-groomer` skill (`.github/skills/jira-ticket-groomer/SKILL.md`) handles live Jira ticket grooming and writes back to `adramatch.jira.com`.
+- The `deep-research` agent (`agents/deep-research.agent.md`) can search across repos, Confluence, and Jira - delegate multi-source investigations to it.
+- The `ticket-completeness-checker` skill (`skills/ticket-completeness-checker/SKILL.md`) is available for pre-grooming completeness and gap checks.
+- The `jira-ticket-groomer` skill (`skills/jira-ticket-groomer/SKILL.md`) handles live Jira ticket grooming and writes back to `adramatch.jira.com`.

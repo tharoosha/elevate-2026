@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "adra-agent-plugin",
+  "description": "GitHub Copilot agent skills for the Adra product suite.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Adra"
+  },
+  "commands": "commands/",
+  "hooks": "hooks.json"
+}
