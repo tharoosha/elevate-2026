@@ -1,22 +1,14 @@
 ---
-allowed-tools:
-- Read
-- Grep
-- Glob
-argument-hint: <epic>
-arguments:
-- epic
-description: Break a pasted epic or ticket into a task/subtask breakdown grounded
-  in what actually exists in this codebase.
+name: grooming
+description: Break a pasted epic or ticket into a task/subtask breakdown grounded in what actually exists in this codebase. Use when someone pastes an epic, ticket, or feature description and wants it groomed into implementable tasks — no tracker connection, nothing gets filed anywhere.
+argument-hint: <pasted epic or ticket text>
 ---
 
-# Groom: $epic
+# Grooming
 
-You are breaking the epic below into an actionable task and subtask breakdown, grounded in this repository — not guesses.
+You are breaking a pasted epic into an actionable task and subtask breakdown, grounded in this repository — not guesses.
 
-## Epic
-
-$epic
+The epic or ticket text (title, description, acceptance criteria) is whatever the user pasted or described in chat.
 
 ## What to do
 

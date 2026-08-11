@@ -1,6 +1,0 @@
-{
-  "name": "adra-agent-plugin",
-  "version": "0.1.0",
-  "description": "Prebuilt agent commands for the Adra product suite (Balancer, Matcher, TaskManager) \u2014 grooming, code review, and more to come.",
-  "license": "UNLICENSED"
-}
