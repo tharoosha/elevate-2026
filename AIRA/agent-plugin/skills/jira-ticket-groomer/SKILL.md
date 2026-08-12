@@ -8,8 +8,6 @@ argument-hint: <jira ticket key, e.g. TDP-42>
 
 Given a live Jira ticket key, this skill produces the same grounded, no-guessing task breakdown that the `grooming` skill produces for a pasted epic - but sourced from the real ticket, enriched with codebase impact analysis, business/domain context, related documentation, and precedent from similar or previously resolved tickets/bugs (both tagged and untagged) - and, once approved, posts the result back to the ticket.
 
-**Relationship to `grooming`:** `grooming` stays paste-only and fully read-only (no tracker connection, nothing filed). This skill is the live, tracker-connected sibling - it reads from and writes to Jira. Pick based on whether you have a ticket key or pasted text, and whether a Jira comment should result.
-
 **Jira site:** `https://adramatch.jira.com/` - all ticket keys, JQL searches, and Confluence lookups below are scoped to this site.
 
 **Delegate by specialization.** Use subagents to keep this conversation concise while preserving grounded evidence:
@@ -18,6 +16,7 @@ Given a live Jira ticket key, this skill produces the same grounded, no-guessing
 - `deep-research` (`agents/deep-research.agent.md`) for Jira/Confluence precedent and multi-source investigation.
 - `requirement-gap-checker` (`agents/requirement-gap-checker.agent.md`) for missing requirement additions.
 - `plan-quality-reviewer` (`agents/plan-quality-reviewer.agent.md`) for final quality review before posting.
+- `graph-flow-generator` (`agents/graph-flow-generator.agent.md`) for optional user flows and Mermaid diagrams.
 
 Delegation is agent-initiated, not guaranteed. If delegation is not available, do the same work inline and keep all grounding rules.
 
@@ -71,9 +70,13 @@ Steps 2, 4, and 5 can be delegated together in one `deep-research` call (it acce
 
    After drafting, run `plan-quality-reviewer` and incorporate high-confidence fixes before presenting to the user.
 
-9. **Human checkpoint before Jira write.** Show the full drafted plan in chat. Do not proceed to step 10 until the user explicitly confirms - if they ask for edits, revise and re-show before asking again. For unambiguous approval, ask for this exact confirmation phrase: `APPROVE_JIRA_COMMENT <TICKET-KEY>`.
+9. **Optional visualization checkpoint.** Ask the user if they want user flows or diagrams (for example: user flow, sequence diagram, component diagram, state flow). If yes, delegate to `graph-flow-generator` and include the generated Mermaid diagrams in the response.
 
-10. **Post to Jira.** Once approved, add the plan as a comment on the ticket via the `atlassian` MCP, formatted for Jira's markup. Report back the comment link. Stop there - no status transition, no other side effects.
+   If no, continue without diagrams.
+
+10. **Human checkpoint before Jira write.** Show the full drafted plan in chat (plus optional diagrams if requested). Do not proceed to step 11 until the user explicitly confirms - if they ask for edits, revise and re-show before asking again. For unambiguous approval, ask for this exact confirmation phrase: `APPROVE_JIRA_COMMENT <TICKET-KEY>`.
+
+11. **Post to Jira.** Once approved, add the plan as a comment on the ticket via the `atlassian` MCP, formatted for Jira's markup. Report back the comment link. Stop there - no status transition, no other side effects.
 
 ## Notes for first live run
 

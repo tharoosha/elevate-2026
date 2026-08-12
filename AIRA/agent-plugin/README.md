@@ -76,6 +76,7 @@ The plugin includes specialized read-only subagents:
 - `agents/scope-impact-mapper.agent.md` - code and cross-repo scope/impact mapping.
 - `agents/requirement-gap-checker.agent.md` - missing requirement and regression-gap detection.
 - `agents/plan-quality-reviewer.agent.md` - final plan quality checks before write-back.
+- `agents/graph-flow-generator.agent.md` - optional user-flow and diagram generation (Mermaid).
 
 A few things worth knowing before adding more:
 
