@@ -1,0 +1,17 @@
+{
+  "urlId": "kA0Ua0000003wDxKAI@Success-Center",
+  "articleId": "kA0Ua0000003wDxKAI",
+  "revisionId": "ka0Ua0000006QUTIA2",
+  "title": "WS_FTP Server (CVE-2023-40044, CVE-2023-42657)",
+  "summary": null,
+  "createdDate": "2024-12-19T14:06:15.000Z",
+  "lastModifiedDate": "2024-12-19T14:06:28.000Z",
+  "lastPublishedDate": "2024-12-19T14:06:28.000Z",
+  "versionNumber": 1,
+  "contentHash": "b02e0257bd750bf6f7868a284b8aef8e104721db4820c3ad501f33c3f09de655",
+  "topics": {
+    "Adra Products": [
+      "Security Alerts"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "urlId": "kA00H000000kJ6ESAU@Success-Center",
+  "articleId": "kA00H000000kJ6ESAU",
+  "revisionId": "ka0VW0000007kpJYAQ",
+  "title": "Task Manager Configure Task Sequences",
+  "summary": "Administrators will understand how to manually create preceding and succeeding task sequences, how to import sequences to a task list, and how to export sequences.",
+  "createdDate": "2026-04-01T08:03:09.000Z",
+  "lastModifiedDate": "2026-04-01T08:03:47.000Z",
+  "lastPublishedDate": "2026-03-20T13:45:30.000Z",
+  "versionNumber": 18,
+  "contentHash": "87d4ddfb7b4c24946993e27812999fb80a4289707a7e7e2310a8d0e6590e3997",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Task List",
+      "Task Manager Tasks"
+    ]
+  }
+}

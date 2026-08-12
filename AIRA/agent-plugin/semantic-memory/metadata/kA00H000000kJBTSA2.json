@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJBTSA2@Success-Center",
+  "articleId": "kA00H000000kJBTSA2",
+  "revisionId": "ka0Ua0000007szlIAA",
+  "title": "Matcher Automatic Matching Overview",
+  "summary": "The Automatic Matching page allows an Admin to run matching rules and review the matching rate running the rules achieved.",
+  "createdDate": "2025-03-21T14:47:50.000Z",
+  "lastModifiedDate": "2025-05-12T08:32:35.000Z",
+  "lastPublishedDate": "2025-05-12T08:32:35.000Z",
+  "versionNumber": 15,
+  "contentHash": "0ffbe12f2ec11f22e1535ae613110c1fac7a9f90a718aced32dc10c83c1f6f33",
+  "topics": {
+    "Adra Products": [
+      "Matcher Automatic Matching"
+    ]
+  }
+}

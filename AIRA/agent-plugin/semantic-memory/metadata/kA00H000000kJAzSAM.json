@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJAzSAM@Success-Center",
+  "articleId": "kA00H000000kJAzSAM",
+  "revisionId": "ka0Ua0000009UrhIAE",
+  "title": "Matcher Export to Balancer",
+  "summary": "For administrators, learn how to export unmatched transactions to Balancer, so they may be used as data for reconciliation.",
+  "createdDate": "2025-05-13T08:13:07.000Z",
+  "lastModifiedDate": "2025-05-19T12:23:02.000Z",
+  "lastPublishedDate": "2025-05-19T12:23:02.000Z",
+  "versionNumber": 17,
+  "contentHash": "78e0adbe76866711298681b61c7a40e718decdcbcbf75e015fbdab0ee65a7eb9",
+  "topics": {
+    "Adra Products": [
+      "Matcher Exceptions"
+    ]
+  }
+}

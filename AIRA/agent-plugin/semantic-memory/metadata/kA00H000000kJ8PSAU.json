@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000kJ8PSAU@Success-Center",
+  "articleId": "kA00H000000kJ8PSAU",
+  "revisionId": "ka0VW00000078SHYAY",
+  "title": "Setup Create & Manage Legal Entities",
+  "summary": "Administrators can learn how to create and edit legal entities, provide users with legal entity access, and understand the use of a legal entity code.",
+  "createdDate": "2026-02-04T09:34:41.000Z",
+  "lastModifiedDate": "2026-02-04T09:35:01.000Z",
+  "lastPublishedDate": "2026-02-04T09:35:01.000Z",
+  "versionNumber": 22,
+  "contentHash": "b1e7ee00a5e33c960d6a91b250db46b4c97fa10e3c3a6d1e3d42286c98197dd9",
+  "topics": {
+    "Adra Products": [
+      "Balancer Administration",
+      "Setup Engagement"
+    ]
+  }
+}

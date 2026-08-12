@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000oOvjSAE@Success-Center",
+  "articleId": "kA00H000000oOvjSAE",
+  "revisionId": "ka0Ua0000008SbpIAE",
+  "title": "Matcher General Settings",
+  "summary": "Overview of the General Settings in Matcher.",
+  "createdDate": "2025-04-10T16:59:30.000Z",
+  "lastModifiedDate": "2025-04-10T16:59:41.000Z",
+  "lastPublishedDate": "2025-04-10T16:59:41.000Z",
+  "versionNumber": 10,
+  "contentHash": "ff04a177705f184d36d94a6414dabaa86ce90cdcd1eef7a9098707f40846dc2a",
+  "topics": {
+    "Adra Products": [
+      "Matcher Adminstration",
+      "Matcher Import"
+    ]
+  }
+}

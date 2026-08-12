@@ -36,7 +36,7 @@ Delegation is agent-initiated, not guaranteed. If delegation is not available, d
    - In other repos (when the ticket suggests cross-repo impact, e.g. a shared package or a service boundary): use `gh search code` / `gh api search/code` scoped to the org - this works without cloning every repo locally, but does require the caller to already have `gh auth login` done with org access. If `gh` isn't authenticated or a search comes back empty, say so plainly rather than assuming no impact.
    - Anything the ticket references that isn't findable this way goes to Open Questions, same as `grooming`.
 
-3. **Business and domain context.** Pull from the ticket's own description and parent epic, plus whatever step 2 surfaces in-repo (READMEs, domain docs, comments). Summarize in plain terms what part of the business this touches and why - don't pad this with generic restatement of the ticket title. (Not delegated - this is a quick synthesis step, not a search.)
+3. **Business and domain context.** Pull from the ticket's own description and parent epic, plus whatever step 2 surfaces in-repo (READMEs, domain docs, comments). Also consult the `domain-knowledge-graph` skill for the ticket's key topic/feature terms to ground the explanation in the shipped Adra documentation corpus rather than guessing. Summarize in plain terms what part of the business this touches and why - don't pad this with generic restatement of the ticket title.
 
 4. **Relevant documentation.** *(delegate to `deep-research`)* Search Confluence via the `atlassian` MCP using keywords from the ticket's title/component/domain. List pages actually returned, each with a link and a one-line note on why it's relevant. No hits is a valid, statable outcome.
 

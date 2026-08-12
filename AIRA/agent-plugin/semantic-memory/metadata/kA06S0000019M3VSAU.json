@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S0000019M3VSAU@Success-Center",
+  "articleId": "kA06S0000019M3VSAU",
+  "revisionId": "ka0Ua0000008GcHIAU",
+  "title": "Task Manager Training Guides",
+  "summary": "Users and Administrators can access Training Guides for reference, including User Guide, Administrator Guide, and Implementation Guide.",
+  "createdDate": "2025-04-04T21:58:05.000Z",
+  "lastModifiedDate": "2025-04-04T21:58:20.000Z",
+  "lastPublishedDate": "2025-04-04T21:58:20.000Z",
+  "versionNumber": 2,
+  "contentHash": "7439a38de12a5a015210304595e299e469644be3e8ae584bf114986ffbe82ce8",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Home"
+    ]
+  }
+}

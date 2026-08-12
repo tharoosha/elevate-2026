@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S000000kK3tSAE@Success-Center",
+  "articleId": "kA06S000000kK3tSAE",
+  "revisionId": "ka0Ua0000005ms1IAA",
+  "title": "Setup Microsoft Dynamics 365 Finance & Operations Integration with Video Demo",
+  "summary": "For Administrators to learn more about accessing Adra from Microsoft Dynamics 365 Finance & Operations, user roles & settings.",
+  "createdDate": "2024-11-29T14:08:53.000Z",
+  "lastModifiedDate": "2025-05-12T08:47:03.000Z",
+  "lastPublishedDate": "2025-05-12T08:47:03.000Z",
+  "versionNumber": 8,
+  "contentHash": "0378579f89c7b55e77889252380354732e42aa070b007424bd9c900cd86083e8",
+  "topics": {
+    "Adra Products": [
+      "Setup Engagement"
+    ]
+  }
+}

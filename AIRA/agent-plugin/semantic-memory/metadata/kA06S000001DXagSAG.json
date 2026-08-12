@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S000001DXagSAG@Success-Center",
+  "articleId": "kA06S000001DXagSAG",
+  "revisionId": "ka0Ua0000008gbZIAQ",
+  "title": "Setup Manage BPO Organization Engagements",
+  "summary": "All BPO Administrators can view engagements connected to the BPO Organization, as well as the engagements they manage.",
+  "createdDate": "2025-04-16T13:51:03.000Z",
+  "lastModifiedDate": "2025-04-16T13:51:37.000Z",
+  "lastPublishedDate": "2025-04-16T13:51:37.000Z",
+  "versionNumber": 3,
+  "contentHash": "d5728e7c94362657b1210a1242fb9d2bfd6686a154034635d93d9b49a2ed8458",
+  "topics": {
+    "Adra Products": [
+      "Setup Engagement"
+    ]
+  }
+}

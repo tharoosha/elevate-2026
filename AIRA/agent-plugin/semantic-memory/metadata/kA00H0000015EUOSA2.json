@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H0000015EUOSA2@Success-Center",
+  "articleId": "kA00H0000015EUOSA2",
+  "revisionId": "ka0VW0000008Q5NYAU",
+  "title": "Balancer Group Accounts and Cross Entity Group Accounts",
+  "summary": "Administrators can learn how to create group accounts, cross entity group accounts, add sub accounts, and manage account groupings.",
+  "createdDate": "2026-05-21T12:50:25.000Z",
+  "lastModifiedDate": "2026-05-21T12:50:52.000Z",
+  "lastPublishedDate": "2026-05-21T12:50:52.000Z",
+  "versionNumber": 17,
+  "contentHash": "08e048bae3a7ec3f19991e8ecf4c394a70ffcff4eb26d5f1b96412e1e8c138fd",
+  "topics": {
+    "Adra Products": [
+      "Balancer Administration"
+    ]
+  }
+}

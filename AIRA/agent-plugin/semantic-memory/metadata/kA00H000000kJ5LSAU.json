@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJ5LSAU@Success-Center",
+  "articleId": "kA00H000000kJ5LSAU",
+  "revisionId": "ka0VW0000006ypVYAQ",
+  "title": "Setup Create New Users In Adra",
+  "summary": "Learn how to create a new user in the Adra Product Suite Setup for any of the Adra Applications; Balancer, Matcher and Task Manager",
+  "createdDate": "2026-01-26T11:08:39.000Z",
+  "lastModifiedDate": "2026-02-05T13:11:38.000Z",
+  "lastPublishedDate": "2026-02-05T13:11:38.000Z",
+  "versionNumber": 20,
+  "contentHash": "394e9036671de583c2403b4b8193340f4892f902b4c9cad06946d20a2847b504",
+  "topics": {
+    "Adra Products": [
+      "Setup Users"
+    ]
+  }
+}

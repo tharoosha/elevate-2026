@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000oOVRSA2@Success-Center",
+  "articleId": "kA00H000000oOVRSA2",
+  "revisionId": "ka0VW0000003MDhYAM",
+  "title": "Balancer System Certify",
+  "summary": "Administrators can learn how to configure account settings and the system certify job settings to automatically prepare and/or approve accounts in bulk.",
+  "createdDate": "2025-09-03T17:45:46.000Z",
+  "lastModifiedDate": "2025-09-03T17:53:35.000Z",
+  "lastPublishedDate": "2025-09-03T17:53:35.000Z",
+  "versionNumber": 29,
+  "contentHash": "244d701ce740cf7eb7f4dedca1af15df036eb5e122e0654b108e58883f213611",
+  "topics": {
+    "Adra Products": [
+      "Balancer Administration",
+      "Balancer Jobs"
+    ]
+  }
+}

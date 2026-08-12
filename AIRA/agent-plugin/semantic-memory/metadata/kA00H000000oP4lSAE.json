@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000oP4lSAE@Success-Center",
+  "articleId": "kA00H000000oP4lSAE",
+  "revisionId": "ka0VW00000078P3YAI",
+  "title": "Setup Remove User Access in Adra",
+  "summary": "Administrators can learn how to remove user access to applications, engagements, or make the user inactive in Adra.",
+  "createdDate": "2026-02-04T09:21:34.000Z",
+  "lastModifiedDate": "2026-02-04T09:22:02.000Z",
+  "lastPublishedDate": "2026-02-04T09:22:02.000Z",
+  "versionNumber": 8,
+  "contentHash": "fc2f7c37bd6af50cfca7d91ac7916c3d0345c80c6f9c16f18a90fa7857cf9427",
+  "topics": {
+    "Adra Products": [
+      "Setup Users"
+    ]
+  }
+}

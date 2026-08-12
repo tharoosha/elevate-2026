@@ -1,0 +1,20 @@
+{
+  "urlId": "kA00H000000kJ9cSAE@Success-Center",
+  "articleId": "kA00H000000kJ9cSAE",
+  "revisionId": "ka0VW0000003WkvYAE",
+  "title": "Setup Create & Manage Fiscal Years",
+  "summary": "Admins can learn how to configure fiscal years and periods for use in Balancer, Matcher, and Task Manager. This includes selecting the appropriate period end type and defining period codes to enable automated imports.\r\nFiscal years and periods must be created before balances and transactions can be imported.",
+  "createdDate": "2025-09-22T12:05:29.000Z",
+  "lastModifiedDate": "2025-09-22T12:06:14.000Z",
+  "lastPublishedDate": "2025-09-22T12:06:14.000Z",
+  "versionNumber": 41,
+  "contentHash": "a78889bcb881bfa268821915883bd1811fbabc58a4f0014b63e64abfdc9b89da",
+  "topics": {
+    "Adra Products": [
+      "Balancer Administration",
+      "Matcher Adminstration",
+      "Setup Engagement",
+      "Task Manager Administration"
+    ]
+  }
+}

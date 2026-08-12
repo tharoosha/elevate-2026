@@ -1,0 +1,18 @@
+{
+  "urlId": "kA06S000000kK7vSAE@Success-Center",
+  "articleId": "kA06S000000kK7vSAE",
+  "revisionId": "ka0VW0000003VyXYAU",
+  "title": "Task Manager Understanding User Roles and Access",
+  "summary": "Task Manager includes two user roles and four administrative roles. In this article, Task Manager users can gain a basic understanding of the responsibilities for each of these roles. Administrators can also learn how to assign read access and roles in Task Manager.",
+  "createdDate": "2025-09-19T12:18:05.000Z",
+  "lastModifiedDate": "2025-09-19T12:47:19.000Z",
+  "lastPublishedDate": "2025-09-19T12:47:19.000Z",
+  "versionNumber": 12,
+  "contentHash": "873f73747b6895e88808a207b74baae0517f143ab58a7efd064de65503c19528",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Home"
+    ]
+  }
+}

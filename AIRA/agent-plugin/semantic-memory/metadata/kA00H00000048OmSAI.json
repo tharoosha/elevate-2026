@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H00000048OmSAI@Success-Center",
+  "articleId": "kA00H00000048OmSAI",
+  "revisionId": "ka0Ua0000008FhpIAE",
+  "title": "Balancer Custom Import XML",
+  "summary": "Administrators can learn how to import custom balance and the transaction files using XML, when the files column order, delimiter or content does not match the default import.",
+  "createdDate": "2025-04-04T21:22:02.000Z",
+  "lastModifiedDate": "2025-04-04T21:22:32.000Z",
+  "lastPublishedDate": "2025-04-04T21:22:32.000Z",
+  "versionNumber": 14,
+  "contentHash": "80c1f6a69cb6b4a1020ebec0950b61d5eeaa67846c84fffb337a96b14d5db1d6",
+  "topics": {
+    "Adra Products": [
+      "Balancer Administration"
+    ]
+  }
+}

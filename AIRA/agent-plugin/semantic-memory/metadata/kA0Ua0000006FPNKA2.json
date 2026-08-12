@@ -1,0 +1,17 @@
+{
+  "urlId": "kA0Ua0000006FPNKA2@Success-Center",
+  "articleId": "kA0Ua0000006FPNKA2",
+  "revisionId": "ka0Ua0000009yszIAA",
+  "title": "Balancer Exclude or Include Zero Balance Accounts",
+  "summary": "Administrators can learn how to set up a new period in Adra Balancer without including accounts that have a zero balance.",
+  "createdDate": "2025-05-30T11:26:43.000Z",
+  "lastModifiedDate": "2025-05-30T11:27:51.000Z",
+  "lastPublishedDate": "2025-05-30T11:27:51.000Z",
+  "versionNumber": 5,
+  "contentHash": "fc13632902a929a3d045d0a95b16e91e6582ada82c220d94a4ebb376c91be184",
+  "topics": {
+    "Adra Products": [
+      "Balancer"
+    ]
+  }
+}

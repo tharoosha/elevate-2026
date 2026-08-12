@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S0000011SEhSAM@Success-Center",
+  "articleId": "kA06S0000011SEhSAM",
+  "revisionId": "ka0VW0000007bm1YAA",
+  "title": "Setup Direct Integration IH API",
+  "summary": "Administrators can upload balances into Balancer and transactions into Balancer and/or Matcher using direct integration.",
+  "createdDate": "2026-03-21T09:44:07.000Z",
+  "lastModifiedDate": "2026-03-22T18:33:24.000Z",
+  "lastPublishedDate": "2026-03-22T18:33:24.000Z",
+  "versionNumber": 11,
+  "contentHash": "35a70ff7ded3cd7946aca688f0e9427ae20906b22d9ff44576b85082380b5ef3",
+  "topics": {
+    "Adra Products": [
+      "Setup Help"
+    ]
+  }
+}

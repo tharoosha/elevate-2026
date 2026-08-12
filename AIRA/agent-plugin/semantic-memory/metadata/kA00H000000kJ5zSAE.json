@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000kJ5zSAE@Success-Center",
+  "articleId": "kA00H000000kJ5zSAE",
+  "revisionId": "ka0VW0000007dELYAY",
+  "title": "Task Manager Create & Copy Task Lists",
+  "summary": "Administrators will learn how to copy properties from a previous Task List to a new Task List.",
+  "createdDate": "2026-03-24T19:57:30.000Z",
+  "lastModifiedDate": "2026-03-24T20:03:11.000Z",
+  "lastPublishedDate": "2026-03-20T13:47:17.000Z",
+  "versionNumber": 12,
+  "contentHash": "feb9d1a9ab1643db7d8af44d43937b987ea2fef1f956fa89a8d10d670062abf2",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Task List"
+    ]
+  }
+}

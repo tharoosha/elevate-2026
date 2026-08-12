@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S000001DXbPSAW@Success-Center",
+  "articleId": "kA06S000001DXbPSAW",
+  "revisionId": "ka0VW0000007TrhYAE",
+  "title": "Setup SCIM Provisioning Users Using OKTA",
+  "summary": "Organizational Administrators can configure SCIM provisioning using OKTA as an identity provider.",
+  "createdDate": "2026-03-10T09:14:39.000Z",
+  "lastModifiedDate": "2026-03-10T09:20:07.000Z",
+  "lastPublishedDate": "2026-03-10T09:20:07.000Z",
+  "versionNumber": 6,
+  "contentHash": "136b85286f13ddc626ffab5c7f06260a7b1ccb8be9ffb9e101a648bd1149bb3c",
+  "topics": {
+    "Adra Products": [
+      "Setup Help"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "urlId": "kA06S0000019LyBSAU@Success-Center",
+  "articleId": "kA06S0000019LyBSAU",
+  "revisionId": "ka0Ua0000009LJlIAM",
+  "title": "Task Manager Connect Analytics API to Tableau",
+  "summary": "All users can learn how to connect the Adra Task Manager Analytics API to Tableau.",
+  "createdDate": "2025-05-09T10:18:10.000Z",
+  "lastModifiedDate": "2025-05-09T11:02:54.000Z",
+  "lastPublishedDate": "2025-05-09T11:02:54.000Z",
+  "versionNumber": 9,
+  "contentHash": "b9fc226317fd5bc5664192d023ac6474f085d8865692a931cd1f31e74456cfd9",
+  "topics": {
+    "Adra Products": [
+      "Analytics Reports",
+      "Task Manager"
+    ]
+  }
+}

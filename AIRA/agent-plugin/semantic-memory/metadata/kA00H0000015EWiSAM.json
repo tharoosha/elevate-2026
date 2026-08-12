@@ -1,0 +1,21 @@
+{
+  "urlId": "kA00H0000015EWiSAM@Success-Center",
+  "articleId": "kA00H0000015EWiSAM",
+  "revisionId": "ka0VW0000003bPdYAI",
+  "title": "Matcher FAQs",
+  "summary": "Matcher, questions",
+  "createdDate": "2025-09-29T15:31:14.000Z",
+  "lastModifiedDate": "2025-09-29T15:57:59.000Z",
+  "lastPublishedDate": "2025-09-29T15:57:59.000Z",
+  "versionNumber": 4,
+  "contentHash": "baf86de60effda08c3310f3d333092fdb30c75789b49f5699baccb68ea3a7957",
+  "topics": {
+    "Adra Products": [
+      "Matcher Adminstration",
+      "Matcher Automatic Matching",
+      "Matcher Exceptions",
+      "Matcher Home",
+      "Matcher Import"
+    ]
+  }
+}

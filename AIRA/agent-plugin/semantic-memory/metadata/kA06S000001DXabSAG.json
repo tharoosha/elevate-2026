@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S000001DXabSAG@Success-Center",
+  "articleId": "kA06S000001DXabSAG",
+  "revisionId": "ka0Ua0000008f7dIAA",
+  "title": "Setup Add BPO Organization Admins and Remove External Admins",
+  "summary": "All BPO Admins can add colleagues from within the BPO Organization as Admins. Additionally, BPO Admins can remove External administrators that were added for configuration or support.",
+  "createdDate": "2025-04-15T17:31:45.000Z",
+  "lastModifiedDate": "2025-04-15T17:32:05.000Z",
+  "lastPublishedDate": "2025-04-15T17:32:05.000Z",
+  "versionNumber": 2,
+  "contentHash": "6ae6fc15c9849a93de24d099443c2c192e68bc9666b873b0094c0ddd619e8ef4",
+  "topics": {
+    "Adra Products": [
+      "Setup Help"
+    ]
+  }
+}

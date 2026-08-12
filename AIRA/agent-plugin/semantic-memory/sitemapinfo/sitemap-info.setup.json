@@ -1,0 +1,389 @@
+[
+  {
+    "helpId": null,
+    "routeId": "apps",
+    "routeTemplate": "",
+    "navmenuTitles": {
+      "da": "Apps",
+      "de": "Apps",
+      "es": "Aplicaciones",
+      "fr": "Applications",
+      "ja": "アプリ",
+      "nb": "Apper",
+      "en": "Apps",
+      "sv": "Appar"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "apps-redirect",
+    "routeTemplate": "apps",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": null,
+    "routeId": "home",
+    "routeTemplate": "home",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA0Ua0000000UcPKAU",
+    "routeId": "profile",
+    "routeTemplate": "profile",
+    "navmenuTitles": {
+      "da": "Profil",
+      "de": "Profil",
+      "es": "Perfil",
+      "fr": "Profil",
+      "ja": "プロフィール",
+      "nb": "Brukerprofil",
+      "en": "Profile",
+      "sv": "Användarprofil"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "unauthorized",
+    "routeTemplate": "unauthorized",
+    "navmenuTitles": {
+      "da": "Unauthorized",
+      "de": "Unauthorized",
+      "en-GB": "Unauthorized",
+      "es": "Unauthorized",
+      "fr": "Unauthorized",
+      "ja": "Unauthorized",
+      "nb": "Unauthorized",
+      "en": "Unauthorized",
+      "sv": "Unauthorized"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "not-found",
+    "routeTemplate": "not-found",
+    "navmenuTitles": {
+      "da": "NotFound",
+      "de": "NotFound",
+      "en-GB": "NotFound",
+      "es": "NotFound",
+      "fr": "NotFound",
+      "ja": "NotFound",
+      "nb": "NotFound",
+      "en": "NotFound",
+      "sv": "NotFound"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "external-engagement-client-edit",
+    "routeTemplate": "clients/:engagementGuid/edit/:clientGuid",
+    "navmenuTitles": {
+      "da": "Engagement",
+      "de": "Engagement",
+      "es": "Empresa",
+      "fr": "Engagement",
+      "ja": "エンゲージメント",
+      "nb": "Engasjement",
+      "en": "Engagement",
+      "sv": "Engagemang"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "external-engagement-client-add",
+    "routeTemplate": "clients/:engagementGuid/add",
+    "navmenuTitles": {
+      "da": "Engagement",
+      "de": "Engagement",
+      "es": "Empresa",
+      "fr": "Engagement",
+      "ja": "エンゲージメント",
+      "nb": "Engasjement",
+      "en": "Engagement",
+      "sv": "Engagemang"
+    }
+  },
+  {
+    "helpId": "kA0Ua0000000VwfKAE",
+    "routeId": "organizations",
+    "routeTemplate": "organizations",
+    "navmenuTitles": {
+      "da": "Organisation",
+      "de": "Organisation",
+      "en-GB": "Organisation",
+      "es": "Organización",
+      "fr": "Organisation",
+      "ja": "組織",
+      "nb": "Organisasjon",
+      "en": "Organization",
+      "sv": "Organisation"
+    }
+  },
+  {
+    "helpId": "kA00H000000oOTGSA2",
+    "routeId": "engagements",
+    "routeTemplate": "engagements",
+    "navmenuTitles": {
+      "da": "Engagement",
+      "de": "Engagement",
+      "es": "Empresa",
+      "fr": "Engagement",
+      "ja": "エンゲージメント",
+      "nb": "Engasjement",
+      "en": "Engagement",
+      "sv": "Engagemang"
+    }
+  },
+  {
+    "helpId": "kA0Ua0000002LjVKAU",
+    "routeId": "operators",
+    "routeTemplate": "users",
+    "navmenuTitles": {
+      "da": "Brugere",
+      "de": "Benutzer",
+      "es": "Usuarios",
+      "fr": "Utilisateurs",
+      "ja": "ユーザー",
+      "nb": "Brukere",
+      "en": "Users",
+      "sv": "Användare"
+    }
+  },
+  {
+    "helpId": "kA00H000000oOTGSA2",
+    "routeId": "engagement-new",
+    "routeTemplate": "engagements/engagement-new",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA00H000000oOTGSA2",
+    "routeId": "engagement-details",
+    "routeTemplate": "engagements/:tenantId",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA0Ua0000000VwfKAE",
+    "routeId": "organization-details",
+    "routeTemplate": "organizations/:organizationSid",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA0Ua0000000VwfKAE",
+    "routeId": "organization-new",
+    "routeTemplate": "organizations/organization-new",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA0Ua0000002KqfKAE",
+    "routeId": "jobs",
+    "routeTemplate": "jobs",
+    "navmenuTitles": {
+      "da": "Job",
+      "de": "Aufträge",
+      "es": "Trabajos",
+      "fr": "Tâches",
+      "ja": "ジョブ",
+      "nb": "Jobb",
+      "en": "Jobs",
+      "sv": "Jobb"
+    }
+  },
+  {
+    "titleKey": "app:financialConfiguration",
+    "navmenuTitles": {
+      "da": "Finansiel konfiguration",
+      "de": "Finanzielle Konfiguration",
+      "es": "Configuración financiera",
+      "fr": "Configuration financière",
+      "ja": "財務設定",
+      "nb": "Finansiell konfigurasjon",
+      "en": "Financial Configuration",
+      "sv": "Finansiell konfiguration"
+    },
+    "children": [
+      {
+        "helpId": "kA00H000000kJ8PSAU",
+        "routeId": "legal-entities",
+        "routeTemplate": "legal-entities",
+        "navmenuTitles": {
+          "da": "Juridiske enheder",
+          "de": "Entitäten",
+          "es": "Personas jurídicas",
+          "fr": "Entités juridiques",
+          "ja": "法人",
+          "nb": "Juridiske enheter",
+          "en": "Legal entities",
+          "sv": "Juridiska enheter"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ9cSAE",
+        "routeId": "fiscal-years",
+        "routeTemplate": "fiscal-years",
+        "navmenuTitles": {
+          "da": "Regnskabsår",
+          "de": "Geschäftsjahre",
+          "en-GB": "Financial years",
+          "es": "Años fiscales",
+          "fr": "Exercices",
+          "ja": "会計年度",
+          "nb": "Regnskapsår",
+          "en": "Fiscal years",
+          "sv": "Räkenskapsår"
+        }
+      },
+      {
+        "helpId": "kA00H000000oOV7SAM",
+        "routeId": "closing-rates",
+        "routeTemplate": "closing-rates",
+        "navmenuTitles": {
+          "da": "Lukkekurser",
+          "de": "Schlusskurse",
+          "es": "Tasas de cierre",
+          "fr": "Cours de clôture",
+          "ja": "決算レート",
+          "nb": "Sluttkurser",
+          "en": "Closing rates",
+          "sv": "Stängningskurser"
+        }
+      },
+      {
+        "helpId": "kA0VW000000BSYr0AO",
+        "routeId": "engagement-calendar",
+        "routeTemplate": "engagement-calendar",
+        "navmenuTitles": {
+          "da": "Kalender for arbejdsdage",
+          "de": "Kalender der Arbeitstage",
+          "es": "Calendario de días laborables",
+          "fr": "Calendrier des jours ouvrables",
+          "ja": "営業日カレンダー",
+          "nb": "Arbeidsdagskalender",
+          "en": "Working day calendar",
+          "sv": "Arbetsdagskalender"
+        }
+      }
+    ]
+  },
+  {
+    "helpId": "kA00H000000kJ9cSAE",
+    "routeId": "fiscal-years-list",
+    "routeTemplate": "engagements/:engagementGuid/fiscal-years",
+    "navmenuTitles": {
+      "da": "Regnskabsår",
+      "de": "Geschäftsjahre",
+      "en-GB": "Financial years",
+      "es": "Años fiscales",
+      "fr": "Exercices",
+      "ja": "会計年度",
+      "nb": "Regnskapsår",
+      "en": "Fiscal Years",
+      "sv": "Räkenskapsår"
+    }
+  },
+  {
+    "helpId": "kA00H000000kJ9cSAE",
+    "routeId": "fiscal-years-upsert",
+    "routeTemplate": "engagements/:engagementGuid/fiscal-years/:fiscalYearGuid",
+    "navmenuTitles": {
+      "da": "Regnskabsår",
+      "de": "Geschäftsjahr",
+      "en-GB": "Financial year",
+      "es": "Año fiscal",
+      "fr": "Année fiscale",
+      "ja": "会計年度",
+      "nb": "Regnskapsår",
+      "en": "Fiscal year",
+      "sv": "Räkenskapsår"
+    }
+  },
+  {
+    "helpId": "kA00H000000kJ8PSAU",
+    "routeId": "legal-entities-list",
+    "routeTemplate": "engagements/:engagementGuid/legal-entities",
+    "navmenuTitles": {
+      "da": "Juridiske enheder",
+      "de": "Entitäten",
+      "es": "Personas jurídicas",
+      "fr": "Entités juridiques",
+      "ja": "法人",
+      "nb": "Juridiske enheter",
+      "en": "Legal entities",
+      "sv": "Juridiska enheter"
+    }
+  },
+  {
+    "helpId": "kA00H000000kJ8PSAU",
+    "routeId": "legal-entities-upsert",
+    "routeTemplate": "engagements/:engagementGuid/legal-entities/:clientSid",
+    "navmenuTitles": {
+      "da": "Juridiske enheder",
+      "de": "Entitäten",
+      "es": "Personas jurídicas",
+      "fr": "Entités juridiques",
+      "ja": "法人",
+      "nb": "Juridiske enheter",
+      "en": "Legal entities",
+      "sv": "Juridiska enheter"
+    }
+  },
+  {
+    "helpId": "kA00H000000oOV7SAM",
+    "routeId": "closing-rates-no-period",
+    "routeTemplate": "engagements/:engagementGuid/closing-rates",
+    "navmenuTitles": {
+      "da": "Lukkekurser",
+      "de": "Schlusskurse",
+      "es": "Tasas de cierre",
+      "fr": "Cours de clôture",
+      "ja": "決算レート",
+      "nb": "Sluttkurser",
+      "en": "Closing rates",
+      "sv": "Stängningskurser"
+    }
+  },
+  {
+    "helpId": "kA00H000000oOV7SAM",
+    "routeId": "closing-rates-list",
+    "routeTemplate": "engagements/:engagementGuid/fiscal-year-periods/:fiscalYearPeriodGuid/closing-rates",
+    "navmenuTitles": {
+      "da": "Lukkekurser",
+      "de": "Schlusskurse",
+      "es": "Tasas de cierre",
+      "fr": "Cours de clôture",
+      "ja": "決算レート",
+      "nb": "Sluttkurser",
+      "en": "Closing rates",
+      "sv": "Stängningskurser"
+    }
+  },
+  {
+    "helpId": "kA00H000000oOV7SAM",
+    "routeId": "add-closing-rates",
+    "routeTemplate": "engagements/:engagementGuid/fiscal-year-periods/:fiscalYearPeriodGuid/closing-rates",
+    "navmenuTitles": {
+      "da": "Lukkekurser",
+      "de": "Schlusskurse",
+      "es": "Tasas de cierre",
+      "fr": "Cours de clôture",
+      "ja": "決算レート",
+      "nb": "Sluttkurser",
+      "en": "Closing rates",
+      "sv": "Stängningskurser"
+    }
+  },
+  {
+    "helpId": "kA0VW000000BSYr0AO",
+    "routeId": "engagement-calendar-list",
+    "routeTemplate": "engagements/:engagementGuid/engagement-calendar",
+    "navmenuTitles": {
+      "da": "Kalender for arbejdsdage",
+      "de": "Kalender der Arbeitstage",
+      "es": "Calendario de días laborables",
+      "fr": "Calendrier des jours ouvrables",
+      "ja": "営業日カレンダー",
+      "nb": "Arbeidsdagskalender",
+      "en": "Working day calendar",
+      "sv": "Arbetsdagskalender"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "urlId": "kA00H000000kJ6OSAU@Success-Center",
+  "articleId": "kA00H000000kJ6OSAU",
+  "revisionId": "ka0VW00000088BhYAI",
+  "title": "Task Manager Edit & Manage Active Tasks",
+  "summary": "Administrators and End-Users can learn how to manage and edit active tasks in active task lists. Administrators can also learn how to update preparers, approvers and teams.",
+  "createdDate": "2026-04-29T15:50:27.000Z",
+  "lastModifiedDate": "2026-04-29T16:00:54.000Z",
+  "lastPublishedDate": "2025-03-21T14:21:26.000Z",
+  "versionNumber": 18,
+  "contentHash": "3a7c48d6b65db621724fdc680ffb07e51caacb4e57f03dc602533e197ab89f2b",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Task List",
+      "Task Manager Tasks"
+    ]
+  }
+}

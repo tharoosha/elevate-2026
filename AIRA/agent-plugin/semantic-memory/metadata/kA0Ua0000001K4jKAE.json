@@ -1,0 +1,17 @@
+{
+  "urlId": "kA0Ua0000001K4jKAE@Success-Center",
+  "articleId": "kA0Ua0000001K4jKAE",
+  "revisionId": "ka0VW0000004qjBYAQ",
+  "title": "Matcher Exceptions Unmatched Items",
+  "summary": "All users can learn how to navigate the Unmatched items tab on the Exceptions page and perform the following tasks:\r\n- Match items\r\n- Create a reconciliation group memo\r\n- Create new journal entries\r\n- Use the suggested matching feature\r\n- Export items to Excel\r\n- Adjust item grid and save grid view\r\n- Add text to multiple items\r\n- View selected transactions\r\n- Manually register items\r\n- Group and undo grouping of transactions\r\n- Send for investigation\r\n- Send to balancer",
+  "createdDate": "2025-11-21T17:17:44.000Z",
+  "lastModifiedDate": "2025-11-24T07:33:02.000Z",
+  "lastPublishedDate": "2025-11-24T07:33:02.000Z",
+  "versionNumber": 7,
+  "contentHash": "bd6c116568a24b1865c275bd8f5a1507bbc74e9943d9c2e4ba157ac594fa32b6",
+  "topics": {
+    "Adra Products": [
+      "Matcher Exceptions"
+    ]
+  }
+}

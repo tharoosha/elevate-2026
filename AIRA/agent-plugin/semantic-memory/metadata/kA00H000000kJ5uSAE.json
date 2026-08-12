@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000kJ5uSAE@Success-Center",
+  "articleId": "kA00H000000kJ5uSAE",
+  "revisionId": "ka0Ua000000AvBVIA0",
+  "title": "Task Manager Import & Export Task Template",
+  "summary": "Administrators can learn how to import and export tasks and extra fields using the templates.",
+  "createdDate": "2025-06-18T12:46:05.000Z",
+  "lastModifiedDate": "2025-06-20T18:36:24.000Z",
+  "lastPublishedDate": "2025-06-20T18:36:24.000Z",
+  "versionNumber": 20,
+  "contentHash": "f7f9a2d4bbbbc470f4d10aa2684c7bb80d8e6464904b5921b231d516c1caae30",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Library"
+    ]
+  }
+}

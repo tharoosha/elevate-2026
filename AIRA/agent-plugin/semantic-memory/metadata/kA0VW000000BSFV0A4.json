@@ -1,0 +1,21 @@
+{
+  "urlId": "kA0VW000000BSFV0A4@Success-Center",
+  "articleId": "kA0VW000000BSFV0A4",
+  "revisionId": "ka0VW00000083aDYAQ",
+  "title": "Adra Balancer – 16 or more-Digit Balance Displays Incorrectly After Excel Import",
+  "summary": "How to resolve issues where imported balances in Adra Balancer display incorrectly after importing Excel into Adra due to Excel’s scientific notation formatting.",
+  "createdDate": "2026-04-21T16:06:25.000Z",
+  "lastModifiedDate": "2026-04-21T16:11:11.000Z",
+  "lastPublishedDate": "2026-04-21T16:11:11.000Z",
+  "versionNumber": 2,
+  "contentHash": "ba2d82d60ae09b585ee5c789f1fbceb5a3724e4f9f8b10c252be2db51e8c9e12",
+  "topics": {
+    "Adra Products": [
+      "Balancer Accounts & Status",
+      "Balancer Jobs"
+    ],
+    "Internal - Adra Support": [
+      "Balancer"
+    ]
+  }
+}
