@@ -1,0 +1,17 @@
+{
+  "urlId": "kA0Ua0000003GGLKA2@Success-Center",
+  "articleId": "kA0Ua0000003GGLKA2",
+  "revisionId": "ka0Ua00000078NRIAY",
+  "title": "Setup External App Integrations",
+  "summary": "Administrators can learn how to link external applications such as Workday, Tableau, PowerBI, Excel, and AAC to the Setup Apps page, streamlining the navigation and login process.",
+  "createdDate": "2025-02-05T12:06:33.000Z",
+  "lastModifiedDate": "2025-02-05T12:07:04.000Z",
+  "lastPublishedDate": "2025-02-05T12:07:04.000Z",
+  "versionNumber": 8,
+  "contentHash": "eb9b9d7b813aac9d62077d509934f9d443f1e3b2d254dfe83665a6ccd82508c6",
+  "topics": {
+    "Adra Products": [
+      "Setup Engagement"
+    ]
+  }
+}

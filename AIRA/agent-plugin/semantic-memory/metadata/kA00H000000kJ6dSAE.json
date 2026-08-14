@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJ6dSAE@Success-Center",
+  "articleId": "kA00H000000kJ6dSAE",
+  "revisionId": "ka0VW0000007fZVYAY",
+  "title": "Task Manager Tasks Page & Locating Tasks",
+  "summary": "Administrators and End-Users can learn how to navigate and optimize the Tasks page, and about cascading filters and how to use the task grid to view task information.",
+  "createdDate": "2026-03-30T08:53:00.000Z",
+  "lastModifiedDate": "2026-03-30T08:53:28.000Z",
+  "lastPublishedDate": "2026-03-30T08:51:35.000Z",
+  "versionNumber": 17,
+  "contentHash": "56c6392356f1cf3e55fce8bd0ad8e24d135523d29c94cc9873afab46ec16790e",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Tasks"
+    ]
+  }
+}

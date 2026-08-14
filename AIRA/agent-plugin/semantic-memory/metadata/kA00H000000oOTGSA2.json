@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000oOTGSA2@Success-Center",
+  "articleId": "kA00H000000oOTGSA2",
+  "revisionId": "ka0VW0000007XyYYAU",
+  "title": "Setup Engagement Settings",
+  "summary": "Organization Administrators can learn how to view and manage Engagement settings. Configure engagement details, Legal Entities, trusted organizations, and the security policy. Additionally, administrators can view the engagements audit trail.",
+  "createdDate": "2026-03-18T07:59:56.000Z",
+  "lastModifiedDate": "2026-03-20T17:50:05.000Z",
+  "lastPublishedDate": "2026-03-20T17:50:05.000Z",
+  "versionNumber": 30,
+  "contentHash": "0aa20dc43a09d683a7794bdc5de109d12676700d4ebeacc1d3516e606932f0fc",
+  "topics": {
+    "Adra Products": [
+      "Setup"
+    ]
+  }
+}

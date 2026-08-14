@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000oPIYSA2@Success-Center",
+  "articleId": "kA00H000000oPIYSA2",
+  "revisionId": "ka0VW0000007bXVYAY",
+  "title": "Matcher Import Wizard",
+  "summary": "The Import Wizard allows a user to create a customized import template based on the data’s configuration coming from an ERP. Matcher users do not have to configure their ERP to create specific imports restricted by template needs determined by Matcher. In most cases, users can utilize existing transaction exports being created by their ERP. Here a user can find instructions for creating imports through the Import Wizard.",
+  "createdDate": "2026-03-20T18:49:26.000Z",
+  "lastModifiedDate": "2026-03-20T18:49:50.000Z",
+  "lastPublishedDate": "2026-03-20T18:49:50.000Z",
+  "versionNumber": 7,
+  "contentHash": "060523778502bec5bb58eda53ecc18673c918e86cb85d8fed8bf828f010d499d",
+  "topics": {
+    "Adra Products": [
+      "Matcher Import"
+    ]
+  }
+}

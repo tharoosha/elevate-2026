@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000oOcrSAE@Success-Center",
+  "articleId": "kA00H000000oOcrSAE",
+  "revisionId": "ka0VW0000003QIvYAM",
+  "title": "Balancer Job Automation Overview",
+  "summary": "Administrators can learn how to enable automatic import of balance and transaction files when they have been imported by a Business Admin, Integration Hub, SFTP etc.",
+  "createdDate": "2025-09-08T10:37:46.000Z",
+  "lastModifiedDate": "2025-09-08T10:40:46.000Z",
+  "lastPublishedDate": "2025-09-08T10:40:46.000Z",
+  "versionNumber": 14,
+  "contentHash": "156dad6ba574ea953d1da04fd66593a2ffbcd8de25d7187945cea977e6743f3d",
+  "topics": {
+    "Adra Products": [
+      "Balancer Administration"
+    ]
+  }
+}

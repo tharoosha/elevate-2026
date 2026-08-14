@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000kJ5fSAE@Success-Center",
+  "articleId": "kA00H000000kJ5fSAE",
+  "revisionId": "ka0Ua000000AounIAC",
+  "title": "Task Manager Extra Fields",
+  "summary": "Administrators can learn how to configure extra fields and how they are used to add filter and sorting capabilities to the tasks.",
+  "createdDate": "2025-06-17T11:59:43.000Z",
+  "lastModifiedDate": "2025-06-17T12:01:44.000Z",
+  "lastPublishedDate": "2025-06-17T12:01:44.000Z",
+  "versionNumber": 16,
+  "contentHash": "9179fd0aa2c37ac43565ab1ce623119708775845119d97201a64b5a85721a7ab",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Library"
+    ]
+  }
+}

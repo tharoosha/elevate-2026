@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJ5aSAE@Success-Center",
+  "articleId": "kA00H000000kJ5aSAE",
+  "revisionId": "ka0Ua0000007oMfIAI",
+  "title": "Task Manager General Settings",
+  "summary": "Administrators can learn how to use the General Settings for segregation of duties, daily to-do emails, sequence breaches, certification pop-ups, notification emails, Dashboard access, and Ad-hoc privileges",
+  "createdDate": "2025-03-17T17:56:06.000Z",
+  "lastModifiedDate": "2025-03-21T14:17:06.000Z",
+  "lastPublishedDate": "2025-03-21T14:17:06.000Z",
+  "versionNumber": 26,
+  "contentHash": "22b335144cd1db7fd5cfa5c723e86ae32aa944c0501ada0337b2856dc45f792c",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration"
+    ]
+  }
+}

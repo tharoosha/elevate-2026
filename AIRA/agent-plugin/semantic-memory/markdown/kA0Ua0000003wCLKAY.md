@@ -1,0 +1,9 @@
+Jira Seraph CVE-2022-0540
+=========================
+
+Problem:  
+[CVE-2022-0540](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0540)  
+A vulnerability in Jira Seraph allows a remote, unauthenticated attacker to bypass authentication by sending a specially crafted HTTP request. This affects Atlassian Jira Server and Data Center versions before 8.13.18, versions 8.14.0 and later before 8.20.6, and versions 8.21.0 and later before 8.22.0. This also affects Atlassian Jira Service Management Server and Data Center versions before 4.13.18, versions 4.14.0 and later before 4.20.6, and versions 4.21.0 and later before 4.22.0.  
+  
+Status:  
+Trintech uses cloud versions of the Atlassian products which as defined by both the vendor and CVE details means that Trintech is NOT impacted by Jira Seraph CVE-2022-0540.

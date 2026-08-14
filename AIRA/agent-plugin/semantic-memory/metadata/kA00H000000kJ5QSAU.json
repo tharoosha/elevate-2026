@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000kJ5QSAU@Success-Center",
+  "articleId": "kA00H000000kJ5QSAU",
+  "revisionId": "ka0Ua000000Av8HIAS",
+  "title": "Task Manager Create & Manage Teams",
+  "summary": "Administrators can learn how to create Teams and manage user access to Teams in Task Manager.",
+  "createdDate": "2025-06-18T12:06:44.000Z",
+  "lastModifiedDate": "2025-06-20T18:35:53.000Z",
+  "lastPublishedDate": "2025-06-20T18:35:53.000Z",
+  "versionNumber": 26,
+  "contentHash": "f5f04afdca69e44db0aea93efa33e3e62906ed437fdbcd1b39fc3a20fc9142c6",
+  "topics": {
+    "Adra Products": [
+      "Task Manager Administration",
+      "Task Manager Home"
+    ]
+  }
+}

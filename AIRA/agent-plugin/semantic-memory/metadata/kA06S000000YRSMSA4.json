@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S000000YRSMSA4@Success-Center",
+  "articleId": "kA06S000000YRSMSA4",
+  "revisionId": "ka0VW0000006WutYAE",
+  "title": "Balancer - Troubleshoot Common Issues with Balance & Transaction Imports",
+  "summary": "Administrators and users can learn about the most common balance and transaction import issues in Balancer. This includes issues that occure during manual or during integration hub uploads.",
+  "createdDate": "2025-12-30T14:45:16.000Z",
+  "lastModifiedDate": "2025-12-30T14:46:34.000Z",
+  "lastPublishedDate": "2025-04-04T20:51:33.000Z",
+  "versionNumber": 6,
+  "contentHash": "334e405b7ea3e8fbdf991f518ff16d64ce8e85b407f152400d62710e3641ccf3",
+  "topics": {
+    "Adra Products": [
+      "Balancer"
+    ]
+  }
+}

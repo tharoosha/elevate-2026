@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJAkSAM@Success-Center",
+  "articleId": "kA00H000000kJAkSAM",
+  "revisionId": "ka0Ua0000009H1dIAE",
+  "title": "Matcher Importing Files",
+  "summary": "Learn the process for importing files once the import templates have been configured. Also learn how the Exclude duplicate transactions functionality works,",
+  "createdDate": "2025-05-06T11:01:22.000Z",
+  "lastModifiedDate": "2025-05-06T11:06:08.000Z",
+  "lastPublishedDate": "2025-05-06T11:06:08.000Z",
+  "versionNumber": 26,
+  "contentHash": "b6655e93c9440bb841767614036f6fac8f58c3ef746e33f960838ad334de2618",
+  "topics": {
+    "Adra Products": [
+      "Matcher Home"
+    ]
+  }
+}

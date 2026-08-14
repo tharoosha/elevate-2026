@@ -1,0 +1,17 @@
+{
+  "urlId": "kA0Ua0000006B0nKAE@Success-Center",
+  "articleId": "kA0Ua0000006B0nKAE",
+  "revisionId": "ka0VW0000003VTtYAM",
+  "title": "Journal Entry Training Guides",
+  "summary": "Users and Administrators can access Training Guides for reference, including User Guide, Administrator Guide, and Implementation Guide.",
+  "createdDate": "2025-09-18T17:14:04.000Z",
+  "lastModifiedDate": "2025-09-19T14:25:30.000Z",
+  "lastPublishedDate": "2025-09-19T14:25:30.000Z",
+  "versionNumber": 7,
+  "contentHash": "d339539fd52b4ba37b1cc7cdc27b82aee906eb89bc263d2ab432411a2e7cce39",
+  "topics": {
+    "Adra Products": [
+      "Journal Entry"
+    ]
+  }
+}

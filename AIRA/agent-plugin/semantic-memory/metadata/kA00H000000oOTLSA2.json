@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000oOTLSA2@Success-Center",
+  "articleId": "kA00H000000oOTLSA2",
+  "revisionId": "ka0VW0000003FSLYA2",
+  "title": "Setup Adra in Japanese",
+  "summary": "Administrators can learn how to change the language used in the Adra application including the Japanese language for Administrators.",
+  "createdDate": "2025-08-22T07:32:14.000Z",
+  "lastModifiedDate": "2025-08-22T07:33:29.000Z",
+  "lastPublishedDate": "2025-08-22T07:33:29.000Z",
+  "versionNumber": 17,
+  "contentHash": "94a04ade2157cb789933520c684b9b63ca0cb9e888b2271385d7f2078c26cc22",
+  "topics": {
+    "Adra Products": [
+      "Setup Engagement",
+      "Setup Users"
+    ]
+  }
+}

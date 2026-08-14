@@ -1,0 +1,17 @@
+{
+  "urlId": "kA0VW000000BP6L0AW@Success-Center",
+  "articleId": "kA0VW000000BP6L0AW",
+  "revisionId": "ka0VW0000007RGPYA2",
+  "title": "Setup Prerequisites for SAML Configuration",
+  "summary": "Organizational Administrators can setup SAML and SCIM configuration.",
+  "createdDate": "2026-03-06T09:29:54.000Z",
+  "lastModifiedDate": "2026-03-06T09:30:19.000Z",
+  "lastPublishedDate": "2026-03-06T08:07:44.000Z",
+  "versionNumber": 4,
+  "contentHash": "412537a55248992412635e567cb21fe017b6e40ff2ef2aeaf40a880420837df4",
+  "topics": {
+    "Adra Products": [
+      "Setup Help"
+    ]
+  }
+}

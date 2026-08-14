@@ -13,7 +13,8 @@ agents/           Subagents - each <name>.agent.md can be delegated to for focus
 mcp.json          MCP servers this plugin depends on (Jira/Confluence, Azure DevOps)
 commands/         Slash commands (`*.prompt.md`) for one-shot workflow entry
 hooks.json        Plugin hook configuration
-scripts/          Hook scripts and automation helpers
+scripts/          Hook scripts and automation helpers, including the knowledge graph builder
+semantic-memory/  Shipped domain knowledge corpus (markdown + metadata) and generated graph
 ```
 
 Skills (not prompt files) are used deliberately: prompt files are VS Code-editor-only and manual-invoke-only, while skills are an open standard that also works with the Copilot CLI and cloud/agent-host agents, and can auto-trigger from their `description` without anyone typing `/name`.
@@ -26,6 +27,7 @@ Skills (not prompt files) are used deliberately: prompt files are VS Code-editor
    - `grooming` — paste an epic/ticket, get a task/subtask breakdown grounded in this codebase. Fully local and read-only; nothing is filed anywhere.
    - `jira-ticket-groomer <KEY>` — give a live Jira ticket key; it investigates codebase impact (including other repos via `gh search code`), business/domain context, related Confluence docs, and similar/past tickets, drafts a grooming plan, and — only after you approve it — posts that plan as a comment on the ticket. The investigation itself (impact analysis, docs, precedent tickets) is delegated to the `deep-research` subagent so the main conversation only sees the distilled findings, not the full search trail; drafting the plan, the approval step, and posting to Jira always happen in the main conversation.
    - `ticket-completeness-checker <KEY or text>` — run a read-only requirement completeness audit before grooming or implementation.
+   - `domain-knowledge-graph <topic>` — look up Adra domain/business context from the shipped knowledge graph before grooming or answering product questions.
 4. Use slash command `/jira-groom-iterative <KEY>` to run the full iterative workflow in one entry point.
 
 ## Jira site
@@ -47,6 +49,14 @@ Declared in `mcp.json`:
 - Jira write actions are gated until chat contains the explicit approval phrase:
    `APPROVE_JIRA_COMMENT <TICKET-KEY>`
 - This prevents accidental Jira writes before final user approval.
+
+## Domain knowledge graph
+
+This plugin ships a domain knowledge corpus under `semantic-memory/` (Adra product help articles, exported as markdown + metadata) plus a generated graph in `semantic-memory/graph/knowledge-graph.json` that links documents to concepts and to each other.
+
+- Rebuild the graph after editing the corpus: `node scripts/build-knowledge-graph.mjs`
+- Query it via the `domain-knowledge-graph` skill, which reads the graph then grounds answers in the actual markdown files.
+- `jira-ticket-groomer` consults this skill for business/domain context instead of relying only on the ticket text.
 
 ## Adding a new skill
 

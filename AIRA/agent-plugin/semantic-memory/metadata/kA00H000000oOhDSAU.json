@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000oOhDSAU@Success-Center",
+  "articleId": "kA00H000000oOhDSAU",
+  "revisionId": "ka0VW00000068irYAA",
+  "title": "Adra - Matcher - Edit Import Configurations",
+  "summary": "For Administrators, review the requirements to configure imports so the system knows where to import data after match rules have been applied",
+  "createdDate": "2025-12-17T18:29:37.000Z",
+  "lastModifiedDate": "2025-12-17T18:29:57.000Z",
+  "lastPublishedDate": "2025-12-17T18:29:57.000Z",
+  "versionNumber": 10,
+  "contentHash": "d18581ee12de38e956bff022c151b0c0eac7bd68c3841612b6054ab8572e3f8c",
+  "topics": {
+    "Adra Products": [
+      "Matcher Adminstration"
+    ]
+  }
+}

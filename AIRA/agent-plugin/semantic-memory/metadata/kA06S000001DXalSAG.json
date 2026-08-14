@@ -1,0 +1,17 @@
+{
+  "urlId": "kA06S000001DXalSAG@Success-Center",
+  "articleId": "kA06S000001DXalSAG",
+  "revisionId": "ka0Ua0000008f9FIAQ",
+  "title": "Setup Create Engagement and Assign Engagement Admins",
+  "summary": "BPO Admins can create new engagements for customers, select BPO employees as engagement admins, and add customer employees as engagement admins.",
+  "createdDate": "2025-04-15T17:32:15.000Z",
+  "lastModifiedDate": "2025-04-15T17:32:27.000Z",
+  "lastPublishedDate": "2025-04-15T17:32:27.000Z",
+  "versionNumber": 4,
+  "contentHash": "b8c40516ebc1a0268790c2105988ed7ab0485ba84188f48bf7fdaed47cf381b6",
+  "topics": {
+    "Adra Products": [
+      "Setup Help"
+    ]
+  }
+}

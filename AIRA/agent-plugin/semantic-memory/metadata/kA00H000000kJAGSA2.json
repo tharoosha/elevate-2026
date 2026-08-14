@@ -1,0 +1,17 @@
+{
+  "urlId": "kA00H000000kJAGSA2@Success-Center",
+  "articleId": "kA00H000000kJAGSA2",
+  "revisionId": "ka0Ua0000009izVIAQ",
+  "title": "Balancer Export & Import Account Roles",
+  "summary": "Business administrators can learn how to export and import account roles from Jobs page and Account settings. This allows administrators to bulk update account roles.",
+  "createdDate": "2025-05-22T12:32:57.000Z",
+  "lastModifiedDate": "2025-05-22T12:37:09.000Z",
+  "lastPublishedDate": "2025-05-22T12:37:09.000Z",
+  "versionNumber": 14,
+  "contentHash": "eb588149271d14b9991fa58544e8eb307a7445d510e1bcf3e9d6de2aca69c966",
+  "topics": {
+    "Adra Products": [
+      "Balancer Jobs"
+    ]
+  }
+}

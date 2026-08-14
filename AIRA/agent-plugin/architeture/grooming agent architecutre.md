@@ -2,6 +2,8 @@
 
 This document describes the end-to-end architecture and control flow for the iterative Jira grooming workflow in this plugin.
 
+Sibling doc: [bug-rca-architecture.md](./bug-rca-architecture.md) covers the backward-reasoning bug RCA workflow.
+
 ## Scope
 
 The workflow starts from a Jira ticket key, performs multi-source analysis with specialized subagents, iterates with user feedback on missing requirements, and posts a Jira comment only after explicit approval.

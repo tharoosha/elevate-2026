@@ -1,0 +1,418 @@
+[
+  {
+    "helpId": "kA00H000000kJ6TSAU",
+    "routeId": "home",
+    "routeTemplate": "engagements/:tenantId",
+    "navmenuTitles": {
+      "da": "Hjem",
+      "de": "Startseite",
+      "es": "Inicio",
+      "fr": "Accueil",
+      "ja": "ホーム",
+      "nb": "Hjem",
+      "en": "Home",
+      "sv": "Hem"
+    }
+  },
+  {
+    "helpId": "kA00H000000kJ6iSAE",
+    "routeId": "dashboard",
+    "routeTemplate": "engagements/:tenantId/dashboard",
+    "navmenuTitles": {
+      "da": "Dashboard",
+      "de": "Dashboard",
+      "es": "Panel de control",
+      "fr": "Tableau de bord",
+      "ja": "ダッシュボード",
+      "nb": "Dashboard",
+      "en": "Dashboard",
+      "sv": "Dashboard"
+    }
+  },
+  {
+    "helpId": "kA00H000000kJ5QSAU",
+    "routeId": "myTeams",
+    "routeTemplate": "engagements/:tenantId/profile/myteams",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA00H000000kJ6dSAE",
+    "routeId": "tasks",
+    "routeTemplate": "engagements/:tenantId/tasks",
+    "navmenuTitles": {
+      "da": "Opgaver",
+      "de": "Aufgaben",
+      "es": "Tareas",
+      "fr": "Tâches",
+      "ja": "タスク",
+      "nb": "Oppgaver",
+      "en": "Tasks",
+      "sv": "Aktiviteter"
+    }
+  },
+  {
+    "helpId": "kA00H000000kJ6YSAU",
+    "routeId": "taskDetails",
+    "routeTemplate": "engagements/:tenantId/task/edittask/:taskId",
+    "navmenuTitles": {
+      "da": "Opgaveoplysninger",
+      "de": "Aufgabendetails",
+      "es": "Detalles de la tarea",
+      "fr": "Détails de la tâche",
+      "ja": "タスクの詳細",
+      "nb": "Oppgavedetaljer",
+      "en": "Task Details",
+      "sv": "Aktivitetsdetaljer"
+    }
+  },
+  {
+    "titleKey": "routes:root.taskLists",
+    "navmenuTitles": {
+      "da": "Opgavelister",
+      "de": "Aufgabenlisten",
+      "es": "Listas de tareas",
+      "fr": "Listes de tâches",
+      "ja": "タスクリスト",
+      "nb": "Oppgavelister",
+      "en": "Task Lists",
+      "sv": "Aktivitetslista"
+    },
+    "children": [
+      {
+        "helpId": "kA0Ua00000002TFKAY",
+        "routeId": "new-taskList",
+        "routeTemplate": "engagements/:tenantId/tasklists/newtasklist",
+        "navmenuTitles": {
+          "da": "Ny opgaveliste",
+          "de": "Neue Aufgabenliste",
+          "es": "Nueva lista de tareas",
+          "fr": "Nouvelle liste de tâches",
+          "ja": "新しいタスクリスト",
+          "nb": "Ny oppgaveliste",
+          "en": "New Task List",
+          "sv": "Ny aktivitetslista"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5zSAE",
+        "routeId": "copy-taskList",
+        "routeTemplate": "engagements/:tenantId/taskLists/tasklistbatchcopy",
+        "navmenuTitles": {
+          "da": "Kopier opgaveliste",
+          "de": "Aufgabenliste kopieren",
+          "es": "Copiar lista de tareas",
+          "fr": "Copier la liste des tâches",
+          "ja": "タスクリストのコピー",
+          "nb": "Kopier oppgavelisten",
+          "en": "Copy Task List",
+          "sv": "Kopiera aktivitetslista"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ6YSAU",
+        "routeId": "update-section",
+        "routeTemplate": "engagements/:tenantId/taskLists/updatesection/:taskListId",
+        "navmenuTitles": {
+          "da": "Rediger sektion",
+          "de": "Abschnitt aktualisieren",
+          "es": "Sección de actualización",
+          "fr": "Section mise à jour",
+          "ja": "セクションの更新",
+          "nb": "Rediger seksjon",
+          "en": "Edit Section",
+          "sv": "Redigera sektion"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ6YSAU",
+        "routeId": "taskListEdit",
+        "routeTemplate": "engagements/:tenantId/tasklists/tasklistedit/:taskListId",
+        "navmenuTitles": {
+          "da": "Rediger opgaveliste",
+          "de": "Aufgabenliste bearbeiten",
+          "es": "Editar lista de tareas",
+          "fr": "Modifier la liste des tâches",
+          "ja": "タスクリストの編集",
+          "nb": "Rediger oppgaveliste",
+          "en": "Edit Task List",
+          "sv": "Redigera aktivitetslista"
+        }
+      },
+      {
+        "helpId": "kA0Ua00000002TFKAY",
+        "routeId": "addTasks",
+        "routeTemplate": "engagements/:tenantId/tasklists/addtasks/:taskListId",
+        "navmenuTitles": {
+          "da": "Tilføj opgaveliste",
+          "de": "Aufgabenliste hinzufügen",
+          "es": "Añadir lista de tareas",
+          "fr": "Ajouter une liste de tâches",
+          "ja": "タスクリストの追加",
+          "nb": "Legg til oppgaveliste",
+          "en": "Add Task List",
+          "sv": "Lägg till aktivitetslista"
+        }
+      }
+    ]
+  },
+  {
+    "helpId": "kA00H000000kJ6YSAU",
+    "routeId": "library",
+    "routeTemplate": "engagements/:tenantId/library",
+    "navmenuTitles": {
+      "da": "Opgavebibliotek",
+      "de": "Bibliothek",
+      "es": "Biblioteca",
+      "fr": "Bibliothèque",
+      "ja": "ライブラリ",
+      "nb": "Bibliotek",
+      "en": "Library",
+      "sv": "Bibliotek"
+    }
+  },
+  {
+    "helpId": "kA06S00000117iUSAQ",
+    "routeId": "jobs",
+    "routeTemplate": "engagements/:tenantId/jobs",
+    "navmenuTitles": {
+      "da": "Jobs",
+      "de": "Aufträge",
+      "es": "Trabajos",
+      "fr": "Tâches",
+      "ja": "処理",
+      "nb": "Jobb",
+      "en": "Jobs",
+      "sv": "Jobb"
+    }
+  },
+  {
+    "titleKey": "routes:root.setup",
+    "navmenuTitles": {
+      "da": "Administration",
+      "de": "Administration",
+      "es": "Administración",
+      "fr": "Administration",
+      "ja": "管理",
+      "nb": "Administrasjon",
+      "en": "Administration",
+      "sv": "Administration"
+    },
+    "children": [
+      {
+        "helpId": null,
+        "routeId": "legalEntities",
+        "routeTemplate": "engagements/:tenantId/administration/legal-entities",
+        "navmenuTitles": {
+          "da": "Juridiske enheder",
+          "de": "Entitäten",
+          "es": "Personas jurídicas",
+          "fr": "Entités juridiques",
+          "ja": "法人",
+          "nb": "Juridiske enheter",
+          "en": "Legal entities",
+          "sv": "Juridisk enhet"
+        }
+      },
+      {
+        "titleKey": "routes:setup.users",
+        "navmenuTitles": {
+          "da": "Brugere",
+          "de": "Benutzer",
+          "es": "Usuarios",
+          "fr": "Utilisateurs",
+          "ja": "ユーザー",
+          "nb": "Brukere",
+          "en": "Users",
+          "sv": "Användare"
+        },
+        "children": [
+          {
+            "helpId": "kA0Ua00000002WTKAY",
+            "routeId": "userAccess",
+            "routeTemplate": "engagements/:tenantId/administration/users/:operatorId",
+            "navmenuTitles": {}
+          }
+        ]
+      },
+      {
+        "helpId": "kA00H000000kJ5QSAU",
+        "routeId": "teams",
+        "routeTemplate": "engagements/:tenantId/administration/teams",
+        "navmenuTitles": {
+          "da": "Teams",
+          "de": "Teams",
+          "es": "Equipos",
+          "fr": "Équipes",
+          "ja": "チーム",
+          "nb": "Team",
+          "en": "Teams",
+          "sv": "Team"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5QSAU",
+        "routeId": "teamEdit",
+        "routeTemplate": "engagements/:tenantId/administration/teams/:teamId",
+        "navmenuTitles": {
+          "da": "Rediger team",
+          "de": "Team bearbeiten",
+          "es": "Editar Equipo",
+          "fr": "Équipe de rédaction",
+          "ja": "チームの編集",
+          "nb": "Rediger team",
+          "en": "Edit Team",
+          "sv": "Redigera team"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5QSAU",
+        "routeId": "teamNew",
+        "routeTemplate": "engagements/:tenantId/administration/teamnew",
+        "navmenuTitles": {
+          "da": "Nyt team",
+          "de": "Neues Team",
+          "es": "Nuevo equipo",
+          "fr": "Nouvelle équipe",
+          "ja": "新しいチーム",
+          "nb": "Nytt team",
+          "en": "New Team",
+          "sv": "Nytt team"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5VSAU",
+        "routeId": "companiesAndDepartments",
+        "routeTemplate": "engagements/:tenantId/administration/companiesdepartments",
+        "navmenuTitles": {
+          "da": "Virksomheder og afdelinger",
+          "de": "Unternehmen und Abteilungen",
+          "es": "Empresas y departamentos",
+          "fr": "Entreprises et Départements",
+          "ja": "会社・部署",
+          "nb": "Selskap og avdelinger",
+          "en": "Companies and Departments",
+          "sv": "Bolag och avdelningar"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5fSAE",
+        "routeId": "extraFieldConfig",
+        "routeTemplate": "engagements/:tenantId/administration/extrafieldconfig",
+        "navmenuTitles": {
+          "da": "Ekstrafelt konfiguration",
+          "de": "Konfiguration für zusätzliches Feld",
+          "es": "Campo extra Configuración",
+          "fr": "Champ supplémentaire Configuration",
+          "ja": "追加フィールド設定",
+          "nb": "Ekstrafelter",
+          "en": "Extra Field Configuration",
+          "sv": "Extrafält"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5fSAE",
+        "routeId": "extraFieldConfigEdit",
+        "routeTemplate": "engagements/:tenantId/administration/extrafieldedit/:extraFieldId",
+        "navmenuTitles": {
+          "da": "Rediger ekstrafelt",
+          "de": "Zusätzliches Feld bearbeiten",
+          "es": "Editar campo adicional",
+          "fr": "Modifier le champ supplémentaire",
+          "ja": "追加フィールドの編集",
+          "nb": "Rediger ekstrafelt",
+          "en": "Edit extra field",
+          "sv": "Redigera extrafält"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5fSAE",
+        "routeId": "extraFieldConfigNew",
+        "routeTemplate": "engagements/:tenantId/administration/extrafieldnew",
+        "navmenuTitles": {
+          "da": "Nyt ekstra felt",
+          "de": "Neues zusätzliches Feld",
+          "es": "Nuevo campo adicional",
+          "fr": "Nouveau champ supplémentaire",
+          "ja": "新しい追加フィールド",
+          "nb": "Legg til ekstrafelt",
+          "en": "New extra field",
+          "sv": "Lägg till extrafält"
+        }
+      },
+      {
+        "helpId": "kA0Ua0000001HrdKAE",
+        "routeId": "fiscalYears",
+        "routeTemplate": "engagements/:tenantId/administration/fiscalyears",
+        "navmenuTitles": {
+          "da": "Regnskabsår",
+          "de": "Geschäftsjahre",
+          "es": "Años fiscales",
+          "fr": "Années fiscales",
+          "ja": "会計年度",
+          "nb": "Regnskapsår",
+          "en": "Fiscal Years",
+          "sv": "Räkenskapsår"
+        }
+      },
+      {
+        "helpId": "kA00H000000kJ5aSAE",
+        "routeId": "generalSettings",
+        "routeTemplate": "engagements/:tenantId/administration/general-settings",
+        "navmenuTitles": {
+          "da": "Generelle indstillinger",
+          "de": "Allgemeine Einstellungen",
+          "es": "Ajustes generales",
+          "fr": "Paramètres généraux",
+          "ja": "一般設定",
+          "nb": "Generelle innstillinger",
+          "en": "General Settings",
+          "sv": "Allmänna inställningar"
+        }
+      }
+    ]
+  },
+  {
+    "helpId": null,
+    "routeId": "import",
+    "routeTemplate": "engagements/:tenantId/import/:entityId/:importType/:fileCategory",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": "kA06S00000117iUSAQ",
+    "routeId": "job-review",
+    "routeTemplate": "engagements/:tenantId/job-review/:jobType/:jobId",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": null,
+    "routeId": "Unauthorized",
+    "routeTemplate": "error/unauthorized",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": null,
+    "routeId": "notFound",
+    "routeTemplate": "error/notfound",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": null,
+    "routeId": "engagementNotFound",
+    "routeTemplate": "engagements/:tenantId/*path",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": null,
+    "routeId": "globalNotFound",
+    "routeTemplate": "*path",
+    "navmenuTitles": {}
+  },
+  {
+    "helpId": null,
+    "routeId": "doc-preview",
+    "routeTemplate": "engagements/:tenantId/doc-preview",
+    "navmenuTitles": {
+      "en": "Document Preview"
+    }
+  }
+]

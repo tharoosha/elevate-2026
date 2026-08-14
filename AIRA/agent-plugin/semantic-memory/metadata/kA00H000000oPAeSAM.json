@@ -1,0 +1,23 @@
+{
+  "urlId": "kA00H000000oPAeSAM@Success-Center",
+  "articleId": "kA00H000000oPAeSAM",
+  "revisionId": "ka0VW0000003bavYAA",
+  "title": "Task Manager FAQs",
+  "summary": "For all users, review these frequently asked questions to quickly find the answer to your most common conundrums.",
+  "createdDate": "2025-09-29T15:59:24.000Z",
+  "lastModifiedDate": "2025-09-29T16:32:32.000Z",
+  "lastPublishedDate": "2025-09-29T16:32:32.000Z",
+  "versionNumber": 15,
+  "contentHash": "fa56e7d08af08d30c0e79314f895673118606599bf3859d59d502c5db56fc854",
+  "topics": {
+    "Adra Products": [
+      "FAQ",
+      "Task Manager Administration",
+      "Task Manager Dashboard",
+      "Task Manager Home",
+      "Task Manager Library",
+      "Task Manager Task List",
+      "Task Manager Tasks"
+    ]
+  }
+}

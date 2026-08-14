@@ -1,0 +1,190 @@
+[
+  {
+    "helpId": null,
+    "routeId": "home",
+    "routeTemplate": "engagements/:tenantId",
+    "navmenuTitles": {
+      "da": "Start",
+      "de": "Startseite",
+      "es": "Inicio",
+      "fr": "Accueil",
+      "ja": "ホーム",
+      "nb": "Hjem",
+      "en": "Home",
+      "sv": "Hem"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "permission-denied",
+    "routeTemplate": "permission-denied",
+    "navmenuTitles": {
+      "da": "Tilladelse nægtet",
+      "de": "Erlaubnis verweigert",
+      "es": "Permiso denegado",
+      "fr": "Autorisation refusée",
+      "ja": "許可が拒否されました",
+      "nb": "Ingen tilgang",
+      "en": "Permission denied",
+      "sv": "Åtkomst nekad"
+    }
+  },
+  {
+    "helpId": "kA0Ua0000004XOnKAM",
+    "routeId": "journal-entries",
+    "routeTemplate": "engagements/:tenantId/journal-entries",
+    "navmenuTitles": {
+      "da": "Bilag",
+      "de": "Journaleinträge",
+      "es": "Anotaciones en el diario",
+      "fr": "Écritures de journal",
+      "ja": "ジャーナルエントリ",
+      "nb": "Bokføringsbilag",
+      "en": "Journal entries",
+      "sv": "Verifikationer"
+    }
+  },
+  {
+    "helpId": "kA0VW0000008u1p0AA",
+    "routeId": "journal-entry-details",
+    "routeTemplate": "engagements/:tenantId/journal-entries/:id",
+    "navmenuTitles": {
+      "da": "Bilag",
+      "de": "Journaleinträge",
+      "es": "Anotaciones en el diario",
+      "fr": "Écritures de journal",
+      "ja": "ジャーナルエントリ",
+      "nb": "Bokføringsbilag",
+      "en": "Journal entries",
+      "sv": "Verifikationer"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "jobs",
+    "routeTemplate": "engagements/:tenantId/jobs",
+    "navmenuTitles": {
+      "da": "Job",
+      "de": "Aufträge",
+      "es": "Trabajos",
+      "fr": "Tâches",
+      "ja": "ジョブ",
+      "nb": "Jobber",
+      "en": "Jobs",
+      "sv": "Jobb"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "not-found",
+    "routeTemplate": "not-found",
+    "navmenuTitles": {
+      "da": "Not found",
+      "de": "Not found",
+      "en-GB": "Not found",
+      "es": "Not found",
+      "fr": "Not found",
+      "ja": "Not found",
+      "nb": "Not found",
+      "en": "Not found",
+      "sv": "Not found"
+    }
+  },
+  {
+    "helpId": null,
+    "routeId": "excelDownload",
+    "routeTemplate": "engagements/:tenantId/download/excel/*jobGuid/*fileName",
+    "navmenuTitles": {}
+  },
+  {
+    "titleKey": "app:administration",
+    "navmenuTitles": {
+      "da": "Administration",
+      "de": "Administration",
+      "es": "Administración",
+      "fr": "Administration",
+      "ja": "管理",
+      "nb": "Administrasjon",
+      "en": "Administration",
+      "sv": "Administration"
+    },
+    "children": [
+      {
+        "helpId": "kA0Ua00000079hhKAA",
+        "routeId": "allowedPosting",
+        "routeTemplate": "engagements/:tenantId/allowed-posting",
+        "navmenuTitles": {
+          "da": "Bogføringsperioder",
+          "de": "Buchungsperioden",
+          "es": "Períodos contables",
+          "fr": "Périodes de détachement",
+          "ja": "転記期間",
+          "nb": "Bokføringsperioder",
+          "en": "Posting periods",
+          "sv": "Bokföringsperioder"
+        }
+      },
+      {
+        "helpId": "kA0VW0000008tyb0AA",
+        "routeId": "allowedPostingAccountList",
+        "routeTemplate": "engagements/:tenantId/posting-account-list",
+        "navmenuTitles": {
+          "da": "Bogføring af konti",
+          "de": "Buchungskonten",
+          "es": "Contabilización de cuentas",
+          "fr": "Comptabilisation des comptes",
+          "ja": "勘定の投稿",
+          "nb": "Bokføringskontoer",
+          "en": "Posting accounts",
+          "sv": "Bokföringskonton"
+        }
+      },
+      {
+        "helpId": "kA0VW0000008tyb0AA",
+        "routeId": "allowedPostingAccountListDetails",
+        "routeTemplate": "engagements/:tenantId/posting-account-list/:id/details/",
+        "navmenuTitles": {
+          "da": "Detaljer om liste over tilladte bogføringskonti",
+          "de": "Liste der zulässigen Buchungskonten Details",
+          "es": "Detalles de la lista de cuentas de contabilización permitidas",
+          "fr": "Détails de la liste des comptes comptables autorisés",
+          "ja": "許可された投稿勘定リストの詳細",
+          "nb": "Detaljer for listen over tillatte bokføringskontoer",
+          "en": "Allowed Posting Account List Details",
+          "sv": "Detaljer för bokföringskontolista"
+        }
+      },
+      {
+        "helpId": "kA0Ua0000004dHJKAY",
+        "routeId": "generalsettings",
+        "routeTemplate": "engagements/:tenantId/general-settings",
+        "navmenuTitles": {
+          "da": "Generelle indstillinger",
+          "de": "Allgemeine Einstellungen",
+          "es": "Ajustes generales",
+          "fr": "Paramètres généraux",
+          "ja": "一般設定",
+          "nb": "Innstillinger",
+          "en": "General settings",
+          "sv": "Allmänna inställningar"
+        }
+      },
+      {
+        "helpId": null,
+        "routeId": "journalTemplates",
+        "routeTemplate": "engagements/:tenantId/journal-templates",
+        "navmenuTitles": {
+          "en": "Journal templates"
+        }
+      },
+      {
+        "helpId": null,
+        "routeId": "journalTemplateDetails",
+        "routeTemplate": "engagements/:tenantId/journal-templates/:id",
+        "navmenuTitles": {
+          "en": "Template details"
+        }
+      }
+    ]
+  }
+]

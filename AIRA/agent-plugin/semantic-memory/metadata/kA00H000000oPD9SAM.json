@@ -1,0 +1,18 @@
+{
+  "urlId": "kA00H000000oPD9SAM@Success-Center",
+  "articleId": "kA00H000000oPD9SAM",
+  "revisionId": "ka0Ua0000008SQXIA2",
+  "title": "Matcher Three Way Matching Setup",
+  "summary": "Administrators can learn how to match transactions when 3 sources of data must be compared and matched.",
+  "createdDate": "2025-04-10T16:55:11.000Z",
+  "lastModifiedDate": "2025-04-10T16:55:23.000Z",
+  "lastPublishedDate": "2025-04-10T16:55:23.000Z",
+  "versionNumber": 5,
+  "contentHash": "53ad9b5c2d153e958c9f71122c7bf75461880c61ef99cf665e0e8abd40adad5f",
+  "topics": {
+    "Adra Products": [
+      "Matcher Automatic Matching",
+      "Matcher Import"
+    ]
+  }
+}
