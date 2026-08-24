@@ -65,34 +65,29 @@ Steps 2, 4, and 5 can be delegated together in one `deep-research` call (it acce
    ### Story/Improvement/Epic template
 
    ```
+   
    AIRA — Story/Improvement/Epic Insights
    ──────────
 
-   ① UNDERSTANDING
-       Business goal
+   1. UNDERSTANDING (Business goal)
 
-   ② REQUIREMENTS
-       Functional/Non-functional requirements
-       Business rules
-       Acceptance criteria
+   ──────────
+   2. REQUIREMENTS (Functional/Non-functional requirements, Business rules)
 
-   ③ IMPACT & DEPENDENCIES
-       Impacted modules
-       Dependencies
-       Related features
+   ──────────
+   3. ACCEPTANCE CRITERIA
 
-   ④ KNOWLEDGE
-       Relevant documentation
-       Similar tasks / features
-       Existing implementations
+   ──────────
+   4. IMPACT & DEPENDENCIES (Impacted modules, Dependencies, Related features)
 
-   ⑤ IMPLEMENTATION CHECKLIST
-       Development
-       UX / Design
-       QA / Testing
+   ──────────
+   5. KNOWLEDGE (Relevant documentation, Similar tasks / features, Existing implementations)
 
-   ⑥ OPEN QUESTIONS
-       Decisions required before development
+   ──────────
+   6. IMPLEMENTATION CHECKLIST (Development, UX / Design, QA / Testing)
+
+   ──────────
+   7. OPEN QUESTIONS (Decisions required before development)
    ```
 
    Fill each line from: ① step 3; ② the ticket's own acceptance criteria plus step 8's missing-requirement findings; ③ step 2 (impacted modules/dependencies) plus step 5 (related features found as precedent); ④ step 4 (documentation) and step 5 (similar tasks/features, existing implementations); ⑤ the task breakdown split into Development / UX / QA buckets instead of arbitrary top-level tasks, as a checklist: `- [ ] **<title>** - <description> (`path/to/file`)`; ⑥ anything referenced but not locatable, or ambiguous enough to need a human answer, plus unresolved items from step 9.
@@ -105,27 +100,15 @@ Steps 2, 4, and 5 can be delegated together in one `deep-research` call (it acce
 
    ① BUG SUMMARY
 
-   ② IMPACT
-       Affected feature / module
-       Related files
-       Severity / business impact
+   ② IMPACT (Affected feature / module, Related files, Severity / business impact)
 
-   ③ SIMILAR HISTORY
-       Similar bugs
-       Previous incidents
-       Previous root causes / fixes
+   ③ SIMILAR HISTORY (Similar bugs, Previous incidents, Previous root causes / fixes)
 
-   ④ RECENT CHANGES
-       Related releases
-       Recent code / configuration changes
+   ④ RECENT CHANGES (Related releases, Recent code / configuration changes)
 
-   ⑤ POSSIBLE CAUSE
-       Suspected root cause
-       Evidence
-       Confidence
+   ⑤ POSSIBLE CAUSE (Suspected root cause, Evidence, Confidence)
 
-   ⑥ RECOMMENDED ACTION
-       Task breakdown
+   ⑥ RECOMMENDED ACTION (Task breakdown)
 
    ⑦ MISSING INFORMATION
    ```
